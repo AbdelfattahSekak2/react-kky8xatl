@@ -1,0 +1,15 @@
+{
+ "name": "<auto-filled>",
+ "version": "<auto-filled>",
+ "description": "",
+ "license": "ISC",
+ "type": "module",
+ "homepage": "{{ homepage }}",
+ "scripts": {
+  "serve": "wcd-cli serve VnFuavEnuVmhj5ED39D7 --open"
+ },
+ "devDependencies": {
+  "wcd-cli": "latest"
+ },
+ "dependencies": {}
+}
